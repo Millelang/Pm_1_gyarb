@@ -1,0 +1,14 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'main.blg'
+[237] biber-MSWIN64:340> INFO - === 
+[332] Biber.pm:418> INFO - Reading 'main.bcf'
+[447] Biber.pm:978> INFO - Found 2 citekeys in bib section 0
+[470] Biber.pm:4401> INFO - Processing section 0
+[498] Biber.pm:4592> INFO - Looking for bibtex file 'references.bib' for section 0
+[576] bibtex.pm:1713> INFO - LaTeX decoding ...
+[594] bibtex.pm:1518> INFO - Found BibTeX data source 'C:\Users\milton.langstrom\Downloads\Pm_1_gyarb\references.bib'
+[725] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[725] UCollate.pm:68> INFO - Overriding locale 'sv-SE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[725] Biber.pm:4221> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'sv-SE'
+[729] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[730] bbl.pm:757> INFO - Output to main.bbl
